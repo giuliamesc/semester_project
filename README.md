@@ -1,2 +1,2 @@
-# semester_project
-No code here :) Mathematical Analysis stuff about regularity of solutions to the Euler Equation
+# Finite-time singularities in the Euler Equation :books:
+Semester Project at the AMCV Group @ EPFL (Mathematical Analysis and Calculus of Variations)
